@@ -2,6 +2,8 @@
 
 This is a simple web-based URL shortener built with JavaScript (VITE + REACT) and the **TinyURL API**. It allows users to input a long URL and returns a shortened version using TinyURL's API.
 
+This is a live demo of this project: [click here](https://link-shortener-website-indol.vercel.app/)
+
 ---
 
 ## 🚀 Features
