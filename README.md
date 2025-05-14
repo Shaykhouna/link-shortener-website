@@ -60,6 +60,8 @@ Use secret storage from platforms like:
 - **Netlify**: Site Settings → Environment Variables
 - **Render/Heroku**: Config Vars
 
+> ⚠️ please use the same variable name as previously meentiionned in Option A!
+
 ---
 
 ### 4. Run the App
